@@ -39,7 +39,7 @@ The data was explored to answer the following questions:
 - Top 5 products
 - Categories with highest discounts
 
-### Data Analysis
+### Analysis
 
 
 
