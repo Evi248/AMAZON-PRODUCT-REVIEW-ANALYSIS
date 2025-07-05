@@ -12,8 +12,8 @@
  - Data Source
  - Tools Used
  - Data Cleaning and Preparation
- - Exploratory Data Analysis
- - Result
+ - Exploratory Data Analysis and Finding
+ - Analysis
  - Recommendation
 
  ### Project Overview
@@ -25,7 +25,7 @@ The dataset contains information scraped from Amazon product pages, including:
 - Customer engagement
 - Reviewer data
 
-### Tools used
+### Tools Used
 - MS Excel for data cleaning
 - Formulas for a Calculated columns
 - Pivot tables and Pivot Charts
@@ -38,7 +38,7 @@ The following actions were performed;
 - Change some data type,
 - Data cleaning and formatting
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis and Finding
 The data was explored to answer the following questions:
 - What is the average discount percentage by product
 - How many products are listed under each category
