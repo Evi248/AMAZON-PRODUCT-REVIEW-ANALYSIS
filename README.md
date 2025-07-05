@@ -91,7 +91,13 @@ Boat Bassheads has the highest score, followed by Redmi, Amazon basics, Samsung 
 These products are the top 5 products of RetailTech insights which drive sales, and increase revenu
 
 ### Analysis
-Cleaned data 1.JPG
+Uploaded to my repository is an image of my cleaned data and dashboard
+
+### Recommendation
+Based on the data analysis of product performance, customer review and sales pattern at Amazon, the following recommenation are made to help improve product quality, enhance marketing stategy and boost customer engagement:
+- Marketing stategy- promote high rated and fast-selling products on their website and implement Amazon sponsored advertisement.
+- Product improvement- address common complaints found in customer reviews
+- Customer care service- improve customer engagement by responding to customer reviews, launch a customer loyalty or referral program to increase repeat purchases and attract new buyers.
 
 
 
@@ -100,8 +106,6 @@ Cleaned data 1.JPG
 
 
 
-
-Cleaned data 2.JPG
 
 
 
