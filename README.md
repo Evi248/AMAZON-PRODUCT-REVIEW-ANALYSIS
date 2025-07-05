@@ -3,6 +3,19 @@
 
  ## PROJECT TOPIC: Amazon Product Review Analysis
 
+ ## About Me
+
+
+
+ ## Table of content
+ - Project Overview
+ - Data Source
+ - Tools Used
+ - Data Cleaning and Preparation
+ - Exploratory Data Analysis
+ - Result
+ - Recommendation
+
  ### Project Overview
 This Data analysis project aims to generate insight that can guide product improvement, marketing strategies and increase customers engagement and review in a company that provides e-commerce analytics solutions to sellers on platforms like Amazon.
 
@@ -39,7 +52,7 @@ The data was explored to answer the following questions:
 - Top 5 products
 - Categories with highest discounts
 
-### Analysis
+### Result
 
 
 
