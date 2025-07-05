@@ -91,6 +91,7 @@ Boat Bassheads has the highest score, followed by Redmi, Amazon basics, Samsung 
 These products are the top 5 products of RetailTech insights which drive sales, and increase revenu
 
 ### Analysis
+Cleaned data 1.JPG
 
 
 
@@ -100,7 +101,7 @@ These products are the top 5 products of RetailTech insights which drive sales, 
 
 
 
-
+Cleaned data 2.JPG
 
 
 
